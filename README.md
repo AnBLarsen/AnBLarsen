@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">I'm a recent graduate of the Multimedia Design and Development program at Humber College.<br> While studying, I discovered my passion for development, which led me to join an intensive Full Stack Web Development Bootcamp, <br>where my focus is on becoming a Front-End Developer.<br><br>I'm a friendly team player who enjoys collaborating, sharing knowledge, and constantly learning. 👥👥🚀<br><br>In my free time, you’ll find me walking my dog or watching superhero movies and shows 🐾🎬.</p>
+<p align="left">I'm a recent graduate of the Multimedia Design and Development program at Humber College.<br> While studying, I discovered my passion for development, which led me to join an intensive Full Stack Web Development Bootcamp, <br>where my focus is on becoming a Front-End Developer.<br><br>I'm a friendly team player who enjoys collaborating, sharing knowledge, and constantly learning. 👥👥🚀<br><br>In my free time, you’ll find me walking my dog or watching superhero movies and shows 🐾🎬.</p>
 
 ###
 
