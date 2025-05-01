@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a recent graduate of the Multimedia Design and Development program at Humber College.<br> While studying, I discovered my passion for development, which led me to join an intensive Full Stack Web Development Bootcamp, <br>where my focus is on becoming a Front-End Developer.<br><br>I'm a friendly team player who enjoys collaborating, sharing knowledge, and constantly learning. 👥👥🚀<br><br>In my free time, you’ll find me walking my dog or watching superhero movies and shows 🐾🎬.</p>
+<p align="left">I'm a recent graduate of the Multimedia Design and Development program at Humber College.<br> While studying, I discovered my passion for development, which led me to join an intensive Full Stack Web Development Bootcamp, <br>where my focus is on becoming a Front-End Developer.<br><br>I'm a friendly team player who enjoys collaborating, sharing knowledge, and constantly learning. 👥👥<br><br>In my free time, you’ll find me walking my dog or watching superhero movies and shows 🐾🎬.</p>
 
 ###
 
@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<h2 align="left">My Skils:</h2>
+<h2 align="left">🚀 My Tech Stack:</h2>
 
 ###
 
@@ -38,8 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
@@ -60,6 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
