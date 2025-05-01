@@ -1,28 +1,55 @@
-<h2 align="center">Hi There! 👋 My name is Andrea Larsen</h2>
+<img src="banner-github.png" alt="GitHub Banner" width="100%" />
 
 ###
 
-<br clear="both">
+<table>
+  <tr>
+  <td width="70%">
+<h2 align="left">🤓 Who am I?</h2>
+<p align="left">
+I'm A, an aspiring Frontend Developer. After the pandemic, I decided to take a new direction in life.<br><br>
+I had been working in the food industry as a pastry cook for several years, but during that time, I discovered a growing interest in technology and design. That led me to pursue a diploma in <strong>Multimedia Design and Development</strong> at Humber College — which I proudly completed last year. 🎓<br><br>
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3huc3AyNmZxaHFocGFjYmtob25jZmM0MjV6MDVudGlxZm1hcWt2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/765ccrAiB0g9z6EApL/giphy.gif"  />
+While studying, I found myself drawn more and more to <strong>web development</strong>, and eventually joined an intensive <strong>Full Stack Web Development Bootcamp</strong> to deepen my skills. 🚀<br><br>
+
+At one point, I felt unsure if I could succeed in this new path — I loved UX/UI design, but I wasn’t yet confident in my coding skills. So I took a much-needed trip back to Argentina 🇦🇷 (after 6 years away!) to recharge, reflect, and reconnect with my goals.<br><br>
+
+When I returned, I joined the <strong>Henry Bootcamp</strong>, fully committing to becoming a developer — and I haven’t looked back since. 💻✨
+</p>
+</td>
+<td align="center" width="30%">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2kzcXdlMzdsOWVycGMzeHNjMW9hd2EzZno0bWx4aTU0NDk4NmhlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" width="100%" alt="Coding gif" />
+<br><br>
+<a href="https://www.linkedin.com/in/andreablarsen/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn badge" />
+</a>
+</td>
+</tr>
+</table>
 
 ###
+<br></br>
+###
+<h2 align="left">💫 My Goal</h2>
 
-<p align="left">I'm a recent graduate of the Multimedia Design and Development program at Humber College.<br> While studying, I discovered my passion for development, which led me to join an intensive Full Stack Web Development Bootcamp, <br>where my focus is on becoming a Front-End Developer.<br><br>I'm a friendly team player who enjoys collaborating, sharing knowledge, and constantly learning. 👥👥<br><br>In my free time, you’ll find me walking my dog or watching superhero movies and shows 🐾🎬.</p>
+<p align="left">
+My goal is to keep learning new tools and technologies, grow as a developer, and deepen my understanding of user experience. 🎯 
+
+I’d love to start sharing what I learn — whether it’s through writing Medium posts, creating small tutorials, or giving tips that can help others. 💡
+
+My long-term dream is to become a <strong>Product Engineer</strong> — someone who bridges the gap between design and development. 🎨🧑‍💻
+
+I know it will take a lot of work, but I’m excited and ready to take on that journey. 🚀
+</p>
 
 ###
-
-<br clear="both">
-
-<div align="right">
-  <a href="https://www.linkedin.com/in/andreablarsen/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<br></br>
+###
+<h2 align="left">🌱 Currently Learning:</h2> 
+TypeScript • Next.js • Tailwind CSS • PostgreSQL
 
 ###
-
-<br clear="both">
+<br></br>
 
 <h2 align="left">🚀 My Tech Stack:</h2>
 
