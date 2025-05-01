@@ -7,7 +7,7 @@
   <td width="70%">
 <h2 align="left">🤓 Who am I?</h2>
 <p align="left">
-I'm A, an aspiring Frontend Developer. After the pandemic, I decided to take a new direction in life.<br><br>
+I'm Andrea Larsen, an aspiring Frontend Developer. After the pandemic, I decided to take a new direction in life.<br><br>
 I had been working in the food industry as a pastry cook for several years, but during that time, I discovered a growing interest in technology and design. That led me to pursue a diploma in <strong>Multimedia Design and Development</strong> at Humber College, which I proudly completed last year. 🎓<br><br>
 
 While studying, I found myself drawn more and more to <strong>web development</strong>, and eventually joined an intensive <strong>Full Stack Web Development Bootcamp</strong> to deepen my skills. 🚀<br><br>
