@@ -8,13 +8,13 @@
 <h2 align="left">🤓 Who am I?</h2>
 <p align="left">
 I'm A, an aspiring Frontend Developer. After the pandemic, I decided to take a new direction in life.<br><br>
-I had been working in the food industry as a pastry cook for several years, but during that time, I discovered a growing interest in technology and design. That led me to pursue a diploma in <strong>Multimedia Design and Development</strong> at Humber College — which I proudly completed last year. 🎓<br><br>
+I had been working in the food industry as a pastry cook for several years, but during that time, I discovered a growing interest in technology and design. That led me to pursue a diploma in <strong>Multimedia Design and Development</strong> at Humber College, which I proudly completed last year. 🎓<br><br>
 
 While studying, I found myself drawn more and more to <strong>web development</strong>, and eventually joined an intensive <strong>Full Stack Web Development Bootcamp</strong> to deepen my skills. 🚀<br><br>
 
-At one point, I felt unsure if I could succeed in this new path — I loved UX/UI design, but I wasn’t yet confident in my coding skills. So I took a much-needed trip back to Argentina 🇦🇷 (after 6 years away!) to recharge, reflect, and reconnect with my goals.<br><br>
+At one point, I felt unsure if I could succeed in this new path, I loved UX/UI design, but I wasn’t yet confident in my coding skills. So I took a much-needed trip back to Argentina 🇦🇷 (after 6 years away!) to recharge, reflect, and reconnect with my goals.<br><br>
 
-When I returned, I joined the <strong>Henry Bootcamp</strong>, fully committing to becoming a developer — and I haven’t looked back since. 💻✨
+When I returned, I joined the <strong>Henry Bootcamp</strong>, fully committing to becoming a developer, and I haven’t looked back since. 💻✨
 </p>
 </td>
 <td align="center" width="30%">
@@ -35,9 +35,9 @@ When I returned, I joined the <strong>Henry Bootcamp</strong>, fully committing 
 <p align="left">
 My goal is to keep learning new tools and technologies, grow as a developer, and deepen my understanding of user experience. 🎯 
 
-I’d love to start sharing what I learn — whether it’s through writing Medium posts, creating small tutorials, or giving tips that can help others. 💡
+I’d love to start sharing what I learn, whether it’s through writing Medium posts, creating small tutorials, or giving tips that can help others. 💡
 
-My long-term dream is to become a <strong>Product Engineer</strong> — someone who bridges the gap between design and development. 🎨🧑‍💻
+My long-term dream is to become a <strong>Product Engineer</strong>, someone who bridges the gap between design and development. 🎨🧑‍💻
 
 I know it will take a lot of work, but I’m excited and ready to take on that journey. 🚀
 </p>
