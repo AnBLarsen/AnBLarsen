@@ -37,7 +37,7 @@ My goal is to keep learning new tools and technologies, grow as a developer, and
 
 I’d love to start sharing what I learn, whether it’s through writing Medium posts, creating small tutorials, or giving tips that can help others. 💡
 
-My long-term dream is to become a <strong>Product Engineer</strong>, someone who bridges the gap between design and development. 🎨🧑‍💻
+My long-term dream is to become a <strong>Software Product Engineer</strong>, someone who bridges the gap between design and development. 🎨🧑‍💻
 
 I know it will take a lot of work, but I’m excited and ready to take on that journey. 🚀
 </p>
