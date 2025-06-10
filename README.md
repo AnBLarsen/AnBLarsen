@@ -53,6 +53,8 @@ TypeScript • Next.js • Tailwind CSS • PostgreSQL
 <h2 align="left">💻 My Latest Project</h2>
 
 <p><a href="https://www.smart-qr.tech/" target="_blank">🌐 smart-qr.tech</a></p>
+<p><a href="https://github.com/SmartQrProject" target="_blank">📁 smart-qr.tech</a></p>
+
 
 <p>Learn more about this full-stack group project on my <a href="https://www.linkedin.com/in/andreablarsen/" target="_blank">LinkedIn</a>, in the Projects section.</p>
 
