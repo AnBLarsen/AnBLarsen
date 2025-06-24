@@ -7,14 +7,15 @@
   <td width="70%">
 <h2 align="left">🤓 Who am I?</h2>
 <p align="left">
-I'm Andrea Larsen, a Full stack developer with a passion for Frontend Developement and user experience. After the pandemic, I decided to take a new direction in life.<br><br>
-I had been working in the food industry as a pastry cook for several years, but during that time, I discovered a growing interest in technology and design. That led me to pursue a diploma in <strong>Multimedia Design and Development</strong> at Humber College, which I proudly completed last year. 🎓<br><br>
+Full Stack Developer with a love for Frontend Development.
 
-While studying, I found myself drawn more and more to <strong>web development</strong>, and eventually joined an intensive <strong>Full Stack Web Development Bootcamp</strong> to deepen my skills. 🚀<br><br>
+Started out in the food industry as a pastry cook, but over time, discovered a growing passion for design and technology. That curiosity led to a Diploma in Multimedia Design & Development from Humber College, graduating with honours and feeling incredibly proud of that accomplishment.
 
-At one point, I felt unsure if I could succeed in this new path, I loved UX/UI design, but I wasn’t yet confident in my coding skills. So I took a much-needed trip back to Argentina 🇦🇷 (after 6 years away!) to recharge, reflect, and reconnect with my goals.<br><br>
+What started as curiosity quickly turned into a genuine passion for web development and took the leap into a Full Stack Web Development Bootcamp to deepen technical expertise.
 
-When I returned, I joined the <strong>Henry Bootcamp</strong>, fully committing to becoming a developer, and I haven’t looked back since. 💻✨
+There were moments of doubt, especially in the beginning, loving UX/UI design but still building confidence as a developer. A long-overdue trip back to Argentina 🇦🇷 (after six years!) offered the chance to reset and reconnect with goals.
+
+Returning with fresh motivation, joined the Henry Bootcamp and fully committed to this new path and haven’t looked back since.
 </p>
 </td>
 <td align="center" width="30%">
@@ -30,23 +31,19 @@ When I returned, I joined the <strong>Henry Bootcamp</strong>, fully committing 
 ###
 <br></br>
 ###
-<h2 align="left">💫 My Goal</h2>
+<h2 align="left">💫 What’s Next</h2>
 
 <p align="left">
-My goal is to keep learning new tools and technologies, grow as a developer, and deepen my understanding of user experience. 🎯 
+Focused on growing as a developer, and continuing to learn new tools and technologies.
 
-I’d love to start sharing what I learn, whether it’s through writing Medium posts, creating small tutorials, or giving tips that can help others. 💡
-
-My long-term dream is to become a <strong>Software Product Engineer</strong>, someone who bridges the gap between design and development. 🎨🧑‍💻
-
-I know it will take a lot of work, but I’m excited and ready to take on that journey. 🚀
+Excited to start sharing what’s been learned through tutorials, writing, or little tips for others navigating a similar transition.
 </p>
 
 ###
 <br></br>
 ###
 <h2 align="left">🌱 Currently Learning:</h2> 
-TypeScript • Next.js • Tailwind CSS • PostgreSQL
+Angular • Three.js 
 
 ###
 <br></br>
