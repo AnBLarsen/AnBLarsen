@@ -5,17 +5,13 @@
 <table>
   <tr>
   <td width="70%">
-<h2 align="left">🤓 Who am I?</h2>
+<h2 align="left">👩‍💻 Who am I?</h2>
 <p align="left">
-Full Stack Developer with a love for Frontend Development.
+I’m a Frontend Developer and UX Engineer focused on building user-centered, accessible web applications with React, Next.js, TypeScript, Tailwind CSS, and Figma.
 
-Started out in the food industry as a pastry cook, but over time, discovered a growing passion for design and technology. That curiosity led to a Diploma in Multimedia Design & Development from Humber College, graduating with honours and feeling incredibly proud of that accomplishment.
+In my first tech role as a Junior UX Software Engineer, I contributed to customer-facing applications, user portal functionality, authentication flows, online booking, service recommendation experiences, frontend testing, analytics, monitoring, and cloud-based workflows.
 
-What started as curiosity quickly turned into a genuine passion for web development and took the leap into a Full Stack Web Development Bootcamp to deepen technical expertise.
-
-There were moments of doubt, especially in the beginning, loving UX/UI design but still building confidence as a developer. A long-overdue trip back to Argentina 🇦🇷 (after six years!) offered the chance to reset and reconnect with goals.
-
-Returning with fresh motivation, joined the Henry Bootcamp and fully committed to this new path and haven’t looked back since.
+My background combines UX/UI design, frontend development, accessibility, and customer experience. I’m currently expanding into full-stack development through NestJS, API design, Swagger, PostgreSQL, authentication, testing, and deployment.
 </p>
 </td>
 <td align="center" width="30%">
@@ -29,78 +25,128 @@ Returning with fresh motivation, joined the Henry Bootcamp and fully committed t
 </table>
 
 ###
-<br></br>
-###
 <h2 align="left">💫 What’s Next</h2>
 
 <p align="left">
-Focused on growing as a developer, and continuing to learn new tools and technologies.
+I’m currently strengthening my backend skills with NestJS, REST API design, Swagger, PostgreSQL, authentication, testing, and deployment.
 
-Excited to start sharing what’s been learned through tutorials, writing, or little tips for others navigating a similar transition.
-</p>
-
-###
-<br></br>
-###
-<h2 align="left">🌱 Currently Learning:</h2> 
-Angular • Three.js 
+My goal is to grow as a frontend-first full-stack developer who can design and build complete, accessible, production-ready web applications.
 
 ###
-<br></br>
+
+###
+<h2 align="left">🤓 Currently Learning:</h2> 
+NestJS · REST API Design · Swagger/OpenAPI · PostgreSQL · Backend Authentication · Testing · Deployment
+
+###
+
 <h2 align="left">💻 My Latest Project</h2>
 
-<p><a href="https://www.smart-qr.tech/" target="_blank">🌐 smart-qr.tech</a></p>
-<p><a href="https://github.com/SmartQrProject" target="_blank">📁 smart-qr.tech</a></p>
+### SmartQR — Self-Ordering Web App
 
+A mobile-first QR ordering platform that allows customers to browse menus, place orders, and complete payment flows.
+
+**Role:** Frontend Developer & UI/UX Designer  
+**Tech:** React · TypeScript · Auth0 · Figma · React Context · localStorage  
+
+<p><a href="https://www.smart-qr.tech/" target="_blank">🌐 smart-qr.tech</a></p>
+<p><a href="https://github.com/SmartQrProject/SmartQr-Front" target="_blank">📁 smart-qr.tech</a></p>
 
 <p>Learn more about this full-stack group project on my <a href="https://www.linkedin.com/in/andreablarsen/" target="_blank">LinkedIn</a>, in the Projects section.</p>
 
-
 ###
 
-<br></br>
+
 <h2 align="left">🚀 My Tech Stack:</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="40" alt="vitest logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" alt="playwright logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobe illustrator logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobe after effects logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobe premiere pro logo" />
 </div>
 
 ###
