@@ -7,7 +7,7 @@
   <td width="70%">
 <h2 align="left">👩‍💻 Who am I?</h2>
 <p align="left">
-I’m a Frontend Developer and UX Engineer focused on building user-centered, accessible web applications with React, Next.js, TypeScript, Tailwind CSS, and Figma.
+I’m a Frontend Developer and UX developer focused on building user-centered, accessible web applications with React, Next.js, TypeScript, Tailwind CSS, and Figma.
 
 In my first tech role as a Junior UX Software Engineer, I contributed to customer-facing applications, user portal functionality, authentication flows, online booking, service recommendation experiences, frontend testing, analytics, monitoring, and cloud-based workflows.
 
