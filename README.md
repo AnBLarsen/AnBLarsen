@@ -1,4 +1,4 @@
-<img src="banner-github.png" alt="Andrea Larsen GitHub banner" width="100%" />
+<img src="banner-git.png" alt="Andrea Larsen GitHub banner" width="100%" />
 
 <table>
   <tr>
